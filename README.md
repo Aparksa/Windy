@@ -1,2 +1,0 @@
-# Windy
-Created with CodeSandbox
